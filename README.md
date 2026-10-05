@@ -1,2 +1,6 @@
-# uae-deals-live
-عروض الإمارات اللحظية - Live UAE deals ordered by emirate and store, auto-refresh every minute
+# UAE Live Deals | عروض الإمارات اللحظية
+
+موقع يعرض التخفيضات والعروض في الإمارات بشكل لحظي.
+- تحديث تلقائي كل دقيقة
+- ترتيب حسب الإمارة ثم حسب المتجر
+- مصادر حقيقية عبر Google News RSS
